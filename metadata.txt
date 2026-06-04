@@ -1,0 +1,12 @@
+[general]
+name=Geometry Calc
+description=Calculate area, length, and buffer for vector layers as per the user input.
+version=1.0
+qgisMinimumVersion=3.0
+author=Kunal Dharod
+email=kunal.dharod5@gmail.com
+repository=https://github.com/your-username/Advanced_Zone_Splitter
+tracker=https://github.com/your-username/Advanced_Zone_Splitter/issues
+tags=geometry, calculate, buffer, spatial analysis, qgis
+icon=icon.png
+experimental=False
