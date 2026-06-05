@@ -1,4 +1,4 @@
-# Geometry Calculator Pro (Advanced Zone Splitter)
+# Geometry Calculator Pro
 
 **Geometry Calc** is a powerful QGIS 3 plugin designed to streamline spatial analysis by automatically calculating geometry properties (area, length, point count) and generating buffers for vector layers[cite: 1]. 
 
